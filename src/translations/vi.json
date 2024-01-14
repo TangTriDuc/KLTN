@@ -1,0 +1,30 @@
+{
+    "titleLanguage": "Ngôn Ngữ:",
+    "homeToday": "Hôm Nay",
+    "titleinfor": "THỜI TIẾT HÔM NAY,",
+    "titleinfor1": "TP.Thủ Đức",
+    "homeForecast": "Dự Báo",
+    "Dự Báo": "Dự Báo",
+    "homeDetails": "Chi Tiết",
+    "homeAbout": "Thông Tin",
+    "Temperature": "Nhiệt Độ",
+    "UV1": "Tia Cực Tím",
+    "Rainfall": "Lượng mưa",
+    "Windgust": "Gió Giật",
+    "filterSelection": "Chọn lựa chọn của bạn:",
+
+    "All": "Tất Cả",
+    "Date": "Ngày",
+    "Time": "Thời gian",
+    "Wind Speed": "Tốc độ gió (M/s)",
+    "Wind Gust": "Gió giật (Km/h)",
+    "Temperature1": "Nhiệt độ (°C)",
+    "Humidity": "Độ ẩm (%)",
+    "Pressure": "Áp suất (Atm)",
+    "DailyRain": "Lượng Mưa Ngày (Mm/d)",
+    "UV": "Tia Cực Tím (W/m^2)",
+
+    "goodMorning": "Chào buổi sáng",
+    "goodAfternoon": "Chào buổi chiều",
+    "goodEvening": "Chào buổi tối"
+}
